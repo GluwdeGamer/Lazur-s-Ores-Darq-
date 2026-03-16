@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "The dark (darq) version of Lazur's Ores!",
+    "pack_format": 75,
+    "min_format": [75, 0],
+    "max_format": [75, 0]
+  }
+}
+
